@@ -1,0 +1,12 @@
+C:\Users\maria.silva101\Desktop\Testes\Calculos\bin\Debug\net7.0\Calculos.deps.json
+C:\Users\maria.silva101\Desktop\Testes\Calculos\bin\Debug\net7.0\Calculos.dll
+C:\Users\maria.silva101\Desktop\Testes\Calculos\bin\Debug\net7.0\Calculos.pdb
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.csproj.AssemblyReference.cache
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.AssemblyInfo.cs
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.dll
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\refint\Calculos.dll
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\Calculos.pdb
+C:\Users\maria.silva101\Desktop\Testes\Calculos\obj\Debug\net7.0\ref\Calculos.dll
